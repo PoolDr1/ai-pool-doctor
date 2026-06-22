@@ -1,0 +1,9 @@
+{
+  "name": "ai-pool-doctor",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "openai": "^5.0.0",
+    "formidable": "^3.5.2"
+  }
+}
