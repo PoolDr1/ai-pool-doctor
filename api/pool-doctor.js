@@ -1,1 +1,13 @@
-
+{
+  "name": "ai-pool-doctor",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vercel dev",
+    "start": "vercel dev"
+  },
+  "dependencies": {
+    "openai": "^5.0.0",
+    "formidable": "^3.5.2"
+  }
+}
